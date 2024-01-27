@@ -320,7 +320,7 @@
     }
   }
   @media screen and (width < 900px) and (width < 900px) {
-    .logo {
+    .logo img {
       width: 10.9rem;
     }
   }
